@@ -8,7 +8,7 @@ este es un portfolio creado con HTML, CSS y JAVASCRIPT usando metodologia BEM Y 
 
 * [Linkedn] (www.linkedin.com/in/danromo1027)
 
-## Master/Cursos donde sor profesor 📚
+## Contratacion 📚
 
 Si quieres contratarme puedes escribirme  a mi correo danromo1027@gmail.com
 
